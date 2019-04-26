@@ -1,4 +1,4 @@
-# my-project
+# pascal explorer frontend
 
 ## Project setup
 ```
